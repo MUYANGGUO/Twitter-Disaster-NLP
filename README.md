@@ -11,7 +11,7 @@ The data folder contains the following files:
 The analysis folder has the Jupyter notebook that contains the code for raw data statistics and data analysis of the dataset.
 
 ## Baseline Models
-The baseline folder contains the LSTM with GloVe embedding and BERT model. For the pre-trained GloVe model, it can be downloaded from [here](https://www.kaggle.com/terenceliu4444/glove6b100dtxt/download). Both jupyter notebook can be run directly.
+The baseline folder contains the LSTM with GloVe embedding and BERT model. For the pre-trained GloVe model, it can be downloaded from [here](https://www.kaggle.com/terenceliu4444/glove6b100dtxt/download). Both jupyter notebook can be run directly after downloading the pre-trained model.
 
 ## BERT with Meta-features
 Both tuned and untuned BERT with meta-features are in the root directoy. All the pre-trained model can be download directed using the code in the notebook. The notebook contains all the library imports and files.
